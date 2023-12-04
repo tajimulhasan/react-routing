@@ -1,0 +1,12 @@
+.see-all{
+    width: 400px;
+}
+.see-all-parent{
+    display: flex;
+    justify-content: center;
+    margin-top: 44px;
+}
+.div h1{
+    text-align: center;
+    margin-top: 40px;
+}

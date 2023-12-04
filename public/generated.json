@@ -1,0 +1,38 @@
+[
+  {
+    "id": "656cd0d68d7bf399f70e66ff",
+    "name": "Steele Zamora",
+    "description": "The Suzuki Gixxer FI ABS has a very responsive engine as well, however, compared to the previous version",
+    "rating": "4.5"
+  },
+  {
+    "id": "656cd0d6de60dafc207f63ed",
+    "name": "Roxanne Rojas",
+    "description": "My Yamaha R15 V3 Bs6 is still going through a break-in. I am riding the bike properly according to the break-in period.",
+    "rating": "4"
+  },
+  {
+    "id": "656cd0d61c873a5f46c1bec1",
+    "name": "Lara Berry",
+    "description": "learned to ride a bike in secret when I was in class eighth. I learned to ride a bike with a friend's father's bike Honda H100s. Dhaka is a city of traffic jams.",
+    "rating": "3"
+  },
+  {
+    "id": "656cd0d636097a8d6adf9500",
+    "name": "Mcgowan Justice",
+    "description": "On the bike I am using a 20w40 grade shell Advance Mineral Engine Oil. Which I bought with 400 BDT. No parts of the bike have been changed so far.",
+    "rating": "2"
+  },
+  {
+    "id": "656cd0d6e761b2702790bdbd",
+    "name": "Coleen Lara",
+    "description": "Since the bike was bought second-hand for running 15,000 km, I did not get any free service. I hired one of my local mechanics and he worked on my bike quite well.",
+    "rating": "4"
+  },
+  {
+    "id": "656cd0d66f4400be196f37d2",
+    "name": "Ingram Gomez",
+    "description": "The bike is much smaller and lighter in shape. Many people think that if it is a low CC bike or a light bike, it is difficult to ride on the highway.",
+    "rating": "5"
+  }
+]

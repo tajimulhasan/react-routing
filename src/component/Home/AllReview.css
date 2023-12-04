@@ -1,0 +1,11 @@
+.cart{
+    background-color: rgb(232, 255, 210);
+    padding: 2px 22px;
+    margin: 12px;
+    box-shadow: 5px 5px 15px rgb(185, 185, 185);
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}

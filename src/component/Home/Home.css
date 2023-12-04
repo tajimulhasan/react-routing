@@ -1,0 +1,63 @@
+
+.details{
+    width: 550px;
+    text-align: justify;
+}
+
+.details h1{
+    font-size: 55px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.tex{
+    color: rgb(163, 255, 72);
+    text-shadow: 2px 2px black;
+}
+.image img{
+    width: 600px;
+}
+.bg{
+    background-color: #87ceeb;
+    margin-top: 30px;
+    border: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 18px 26px;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+.bg:hover{
+    background-color: #5cd1ff;
+    border: 0px;
+    padding: 18px 26px;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+.reviewer{
+    
+    display: flex;
+    justify-content: center;
+}
+.see-allReview button{
+   background-color: #5cd1ff;
+   padding: 2px 80px;
+   text-align: center;
+   border: none;
+   border-radius: 6px;
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   -ms-border-radius: 6px;
+   -o-border-radius: 6px;
+}
+.see-allReview{
+    text-align: center;
+}
+.review-three{
+width: 400px;
+margin-top: 15px;
+
+}
