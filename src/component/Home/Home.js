@@ -42,7 +42,7 @@ const Home = () => {
                  </div>
                </div>
           
-               <div className="see-allReview">
+               <div className="see-allReview mt-3">
                 <button onClick={handleToReview}>See All Reviews</button>
                </div>
             </div><br /><br />

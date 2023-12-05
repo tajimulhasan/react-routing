@@ -6,3 +6,12 @@
     gap: 110px;
     grid-template-columns:repeat( 2, 1fr);
 }
+@media only screen and (max-width: 414px){
+   .for-grid{
+    display: grid;
+    gap: 50px;
+    grid-template-columns:repeat( 1, 1fr);
+    justify-content: center;
+}
+
+}

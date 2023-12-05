@@ -1,10 +1,16 @@
 .see-all{
-    width: 400px;
+    
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px;
+
 }
 .see-all-parent{
     display: flex;
     justify-content: center;
     margin-top: 44px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .div h1{
     text-align: center;

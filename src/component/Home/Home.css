@@ -61,3 +61,22 @@ width: 400px;
 margin-top: 15px;
 
 }
+
+
+@media only screen and (max-width: 414px) {
+   
+    .image img{
+        width: 380px;
+    }
+    .image{
+
+    }
+    .details{
+        width: 350px;
+        text-align: justify;
+        margin-top: 3rem;
+    }
+    .container-detail{
+           flex-direction: column;
+    }
+}

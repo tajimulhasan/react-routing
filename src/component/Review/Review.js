@@ -5,7 +5,7 @@ import './Review.css';
 const Review = () => {
     const [review, setReview] = useReview();
     return (
-       <div className="div">
+       <div className="div mb-4">
          <h1>What our customers say!</h1>
          <div className='see-all-parent'>
          <div className="see-all">

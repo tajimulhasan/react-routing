@@ -2,7 +2,7 @@ import React from 'react';
 
 const Blogs = () => {
     return (
-        <div className='ms-5 me-5'>
+        <div className='ms-5 me-5 mt-4'>
            <div className="context-api bg-success-subtle text-emphasis-success p-3 rounded mb-3">
             <h3>What is the purpose of Context Api in react?</h3>
             <p>Context provides a way to pass data like invisible tree. Generally, To pass data component to child we use props. When our need multichild to pass data if we use props its to much DRY. In that case we use a react hook to easy this. It's 'useContext'. To use this at first we have to EXPORT 'createContext' with a demo function name in the top of Componet parent Function. <span className='fw-bold'>Example: 'EXPORT const MyShopContext = createContext (null or someText)'</span>. Then where we get that without props we have to wrap with that imported name dot  provider. And set value of it what I send data to child. <span className='fw-bold'>As example that: `MyShopContext.provider value="" or any aray object leftarrow/MyShopContext.provider</span>. Then whre I accept that data we have to IMPORT that useContext by variable.</p>
